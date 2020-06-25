@@ -1,0 +1,15 @@
+/home/shuchun/下载/clion-2019.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shuchun/Downloads/DynaSLAM-master(qinhua)
+Build type: Debug
+-- Using flag -std=c++11.
+PROJECT_SOURCE_DIR: /usr/local/share/OpenCV
+OpenCV > 2.4.11 not found.
+PYTHON LIBS were found!
+PYTHON LIBS DIRECTORY: /usr/lib/x86_64-linux-gnu/libpython3.5m.so
+Boost was found!
+Boost Headers DIRECTORY: /usr/include
+Boost LIBS DIRECTORY: /usr/lib/x86_64-linux-gnu
+Found Libraries: /usr/lib/x86_64-linux-gnu/libboost_thread.so-lpthread/usr/lib/x86_64-linux-gnu/libboost_chrono.so/usr/lib/x86_64-linux-gnu/libboost_system.so/usr/lib/x86_64-linux-gnu/libboost_date_time.so/usr/lib/x86_64-linux-gnu/libboost_atomic.so
+PROJECT_SOURCE_DIR: /home/shuchun/Downloads/DynaSLAM-master(qinhua)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shuchun/Downloads/DynaSLAM-master(qinhua)/cmake-build-debug

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DynaSLAM" targetName="mono_tum" />
+      <config projectName="DynaSLAM" targetName="myvideo" />
+      <config projectName="DynaSLAM" targetName="stereo_kitti" />
+      <config projectName="DynaSLAM" targetName="DynaSLAM" />
+      <config projectName="DynaSLAM" targetName="rgbd_tum" />
+      <config projectName="DynaSLAM" targetName="myslam" />
+      <config projectName="DynaSLAM" targetName="mono_kitti" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89002297-a4d0-41d1-8c6c-1cb2be76d050" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ao4I8CxO54xHX2gEmB3ecvWVxL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ORB_SLAM2" />
+  </component>
+  <component name="RunManager" selected="CMake Application.mono_tum">
+    <configuration name="DynaSLAM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynaSLAM" TARGET_NAME="DynaSLAM" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_kitti" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynaSLAM" TARGET_NAME="mono_kitti" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynaSLAM" RUN_TARGET_NAME="mono_kitti">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_tum" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./mono_tum ../../Vocabulary/ORBvoc.txt ./TUM1.yaml ./rgbd_dataste_freiburg3_walking_xyz" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynaSLAM" TARGET_NAME="mono_tum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynaSLAM" RUN_TARGET_NAME="mono_tum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myslam" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynaSLAM" TARGET_NAME="myslam" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynaSLAM" RUN_TARGET_NAME="myslam">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myvideo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynaSLAM" TARGET_NAME="myvideo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynaSLAM" RUN_TARGET_NAME="myvideo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rgbd_tum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynaSLAM" TARGET_NAME="rgbd_tum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynaSLAM" RUN_TARGET_NAME="rgbd_tum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stereo_kitti" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynaSLAM" TARGET_NAME="stereo_kitti" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynaSLAM" RUN_TARGET_NAME="stereo_kitti">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.DynaSLAM" />
+      <item itemvalue="CMake Application.mono_kitti" />
+      <item itemvalue="CMake Application.mono_tum" />
+      <item itemvalue="CMake Application.myslam" />
+      <item itemvalue="CMake Application.myvideo" />
+      <item itemvalue="CMake Application.rgbd_tum" />
+      <item itemvalue="CMake Application.stereo_kitti" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89002297-a4d0-41d1-8c6c-1cb2be76d050" name="Default Changelist" comment="" />
+      <created>1587388529600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587388529600</updated>
+      <workItem from="1587388531333" duration="282000" />
+      <workItem from="1587388818731" duration="7000" />
+      <workItem from="1587389797636" duration="8000" />
+      <workItem from="1587389814234" duration="118000" />
+      <workItem from="1587470321171" duration="713000" />
+      <workItem from="1588764694880" duration="294000" />
+      <workItem from="1588765103843" duration="321000" />
+      <workItem from="1588765482649" duration="849000" />
+      <workItem from="1588766409036" duration="1309000" />
+      <workItem from="1588767737591" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="266" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588767340085">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="642" y="266" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1588767340085" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1588767748508">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1588767748508" />
+    <state width="1807" height="288" key="GridCell.Tab.0.bottom" timestamp="1588767718087">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1807" height="288" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1588767718087" />
+    <state width="1807" height="288" key="GridCell.Tab.0.center" timestamp="1588767718086">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1807" height="288" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1588767718086" />
+    <state width="1807" height="288" key="GridCell.Tab.0.left" timestamp="1588767718085">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1807" height="288" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1588767718085" />
+    <state width="1807" height="288" key="GridCell.Tab.0.right" timestamp="1588767718087">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1807" height="288" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1588767718087" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1588767737627">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1588767737626" />
+    <state x="449" y="34" width="1319" height="719" key="dock-window-1" timestamp="1588765795599">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="449" y="34" width="1319" height="719" key="dock-window-1/65.24.1855.1056@65.24.1855.1056" timestamp="1588765795599" />
+    <state x="406" y="89" width="1319" height="719" key="dock-window-2" timestamp="1588765861530">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="406" y="89" width="1319" height="719" key="dock-window-2/65.24.1855.1056@65.24.1855.1056" timestamp="1588765861530" />
+    <state x="742" y="183" key="refactoring.ChangeSignatureDialog" timestamp="1588765012417">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="742" y="183" key="refactoring.ChangeSignatureDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1588765012417" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Examples/Monocular/myslam.cpp</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
